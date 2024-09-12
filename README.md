@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing GitHUb
+My name is Kaleb. Im from SDA250.
